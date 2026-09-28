@@ -1,0 +1,713 @@
+{
+  "1": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "respiracionAgitada"
+    },
+    "nextId": "2"
+  },
+  "2": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "gritoMujer"
+    },
+    "nextId": "3"
+  },
+  "3": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "respiracionProfunda"
+    },
+    "nextId": "4"
+  },
+  "4": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "pasos"
+    },
+    "nextId": "5"
+  },
+  "5": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "metal"
+    },
+    "nextId": "6"
+  },
+  "6": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "puertaAbre"
+    },
+    "nextId": "7"
+  },
+  "7": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "bandeja"
+    },
+    "nextId": "8"
+  },
+  "8": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "vocesIndistintas"
+    },
+    "nextId": "9"
+  },
+  "9": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "En el primer día, Dios creó la luz y la separó de las tinieblas. "
+    },
+    "audio": {
+      "sfx": "llantoBebe"
+    },
+    "nextId": "10"
+  },
+  "10": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "soloLlantoBebe"
+    },
+    "nextId": "11"
+  },
+  "11": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Supongo que no para todo el mundo. "
+    },
+    "nextId": "12"
+  },
+  "12": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "No creo que nadie recuerda realmente su nacimiento. "
+    },
+    "nextId": "13"
+  },
+  "13": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Pero el mío siempre me ha parecido diferente. "
+    },
+    "nextId": "14"
+  },
+  "14": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "No porque haya sido especial. Sino porque, desde el principio... "
+    },
+    "audio": {
+      "sfx": "pasosAcerccandose"
+    },
+    "nextId": "15"
+  },
+  "15": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "el mundo llegó hasta mí de otra manera. "
+    },
+    "audio": {
+      "sfx": "mujerContieneLlanto"
+    },
+    "nextId": "16"
+  },
+  "16": {
+    "speaker": {
+      "ES": "Enfermera"
+    },
+    "text": {
+      "ES": "Con cuidado…"
+    },
+    "audio": {
+      "sfx": "respiracionYCorazon"
+    },
+    "nextId": "17"
+  },
+  "17": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Antes de aprender palabras..."
+    },
+    "nextId": "18"
+  },
+  "18": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "aprendí voces."
+    },
+    "nextId": "19"
+  },
+  "19": {
+    "speaker": {
+      "ES": "Madre"
+    },
+    "text": {
+      "ES": "Hola, mi amor."
+    },
+    "audio": {
+      "sfx": "bebéDejaLlorar"
+    },
+    "nextId": "20"
+  },
+  "20": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Antes de conocer los rostros... "
+    },
+    "nextId": "21"
+  },
+  "21": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "aprendí a reconocer quién estaba cerca."
+    },
+    "nextId": "22"
+  },
+  "22": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "La primera voz que conocí..."
+    },
+    "nextId": "23"
+  },
+  "23": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "fue la de mi madre."
+    },
+    "nextId": "24"
+  },
+  "24": {
+    "speaker": {
+      "ES": "Madre"
+    },
+    "text": {
+      "ES": "Hola…"
+    },
+    "audio": {
+      "sfx": "risaBebe"
+    },
+    "nextId": "25"
+  },
+  "25": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Aunque no pudiera verla, sabía que era ella."
+    },
+    "audio": {
+      "sfx": "puertaAbre"
+    },
+    "nextId": "26"
+  },
+  "26": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "pasosRapidos"
+    },
+    "nextId": "27"
+  },
+  "27": {
+    "speaker": {
+      "ES": "Padre"
+    },
+    "text": {
+      "ES": "¿Ya nació? "
+    },
+    "nextId": "28"
+  },
+  "28": {
+    "speaker": {
+      "ES": "Madre"
+    },
+    "text": {
+      "ES": "Si."
+    },
+    "nextId": "29"
+  },
+  "29": {
+    "speaker": {
+      "ES": "Padre"
+    },
+    "text": {
+      "ES": "Hola, campeón."
+    },
+    "audio": {
+      "sfx": "sonidoBebe"
+    },
+    "nextId": "30"
+  },
+  "30": {
+    "speaker": {
+      "ES": "Padre"
+    },
+    "text": {
+      "ES": "Es perfecto. "
+    },
+    "audio": {
+      "sfx": "risaPadre"
+    },
+    "nextId": "31"
+  },
+  "31": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Después estuvo la voz de mi padre."
+    },
+    "nextId": "32"
+  },
+  "32": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Más grave. "
+    },
+    "nextId": "33"
+  },
+  "33": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Más torpe."
+    },
+    "nextId": "34"
+  },
+  "34": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Siempre intentando sonar tranquilo cuando tenía miedo. "
+    },
+    "audio": {
+      "sfx": "monitorCardiaco"
+    },
+    "nextId": "35"
+  },
+  "35": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "bgm": "CancionCuna",
+      "bgmAction" : "volumeDown"
+    },
+    "nextId": "36"
+  },
+  "36": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Durante mucho tiempo pensé que todos conocíamos el mundo de la misma manera. "
+    },
+    "audio": {
+      "bgm": "CancionCuna",
+      "bgmAction" : "play"
+    },
+    "nextId": "37"
+  },
+  "37": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Nunca entendí qué significaba \"ver\". "
+    },
+    "nextId": "38"
+  },
+  "38": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Para mí... "
+    },
+    "nextId": "39"
+  },
+  "39": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "una persona era una voz."
+    },
+    "nextId": "40"
+  },
+  "40": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Una casa era un conjunto de sonidos. "
+    },
+    "nextId": "41"
+  },
+  "41": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Mi padre hacía demasiado ruido cuando caminaba. "
+    },
+    "audio": {
+      "sfx": "puertaAbre"
+    },
+    "nextId": "42"
+  },
+  "42": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Y la puerta de mi casa... "
+    },
+    "nextId": "43"
+  },
+  "43": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "siempre anunciaba quién había llegado. "
+    },
+    "audio": {
+      "sfx": "risaBebe"
+    },
+    "nextId": "44"
+  },
+  "44": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Ese era mi mundo."
+    },
+    "nextId": "45"
+  },
+  "45": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Y era suficiente."
+    },
+    "audio": {
+      "bgmAction": "volumeUp",
+      "fadeDuration": 3.0
+    },
+    "nextId": "46"
+  },
+  "46": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "radioBuscaSeñal"
+    },
+    "nextId": "47"
+  },
+  "47": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "bgm": "comienzaCancion",
+      "bgmAction": "play"
+    },
+    "nextId": "48"
+  },
+  "48": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Pero había algo que me gustaba más que cualquier otra cosa."
+    },
+    "nextId": "49"
+  },
+  "49": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "La música."
+    },
+    "nextId": "50"
+  },
+  "50": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "bgmAction": "stop"
+    },
+    "nextId": "51"
+  },
+  "51": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "monitorCardiaco"
+    },
+    "nextId": "52"
+  },
+  "52": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "puertaAbre"
+    },
+    "nextId": "53"
+  },
+  "53": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "pasos"
+    },
+    "nextId": "54"
+  },
+  "54": {
+    "speaker": {
+      "ES": "Doctor"
+    },
+    "text": {
+      "ES": "¿Puedo hablar un momento con ustedes?"
+    },
+    "audio": {
+      "sfx": "puertaCierra"
+    },
+    "nextId": "55"
+  },
+  "55": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "vocesApagadas"
+    },
+    "nextId": "56"
+  },
+  "56": {
+    "speaker": {
+      "ES": "Doctor"
+    },
+    "text": {
+      "ES": "...es sobre la visión de Diego."
+    },
+    "nextId": "57"
+  },
+  "57": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "llantoLejano"
+    },
+    "nextId": "58"
+  },
+  "58": {
+    "speaker": {
+      "ES": "Doctor"
+    },
+    "text": {
+      "ES": "...no significa que hayan hecho algo mal. "
+    },
+    "nextId": "59"
+  },
+  "59": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "No hay nada que podamos hacer."
+    },
+    "audio": {
+      "bgmAction": "fadeOut",
+      "fadeDuration": 2.0
+    },
+    "nextId": "60"
+  },
+  "60": {
+    "speaker": {
+      "ES": " "
+    },
+    "text": {
+      "ES": "…"
+    },
+    "audio": {
+      "sfx": "llantoBebe"
+    },
+    "nextId": "61"
+  },
+  "61": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Yo no recuerdo aquella conversación. "
+    },
+    "nextId": "62"
+  },
+  "62": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Pero crecí con la respuesta. "
+    },
+    "nextId": "63"
+  },
+  "63": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Aunque, para mí... "
+    },
+    "audio": {
+      "bgm": "comienzaCancion",
+      "bgmAction": "play"
+    },
+    "nextId": "64"
+  },
+  "64": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "no había nada que entender. "
+    },
+    "nextId": "65"
+  },
+  "65": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Ese era mi mundo. "
+    },
+    "nextId": "66"
+  },
+  "66": {
+    "speaker": {
+      "ES": "Diego (V.O.)"
+    },
+    "text": {
+      "ES": "Y era suficiente."
+    },
+    "nextId": "END"
+  }
+}
